@@ -1,11 +1,6 @@
 # Flight Control System
 
 ### Sky Pulse Drone - Flight Control System
-
-#### Project Name
-Sky Pulse Drone - Flight Control System
-
-#### Project Description
 The Flight Control System (FCS) of the Sky Pulse Drone is a critical component designed to optimize drone operation and flight performance. This system is responsible for real-time processing of flight data, controlling the drone's attitude and navigation, and ensuring flight stability and safety.
 
 #### Features
@@ -37,5 +32,3 @@ This project is licensed under the [MIT License](LICENSE), allowing free use and
 For any inquiries, please contact the project maintainer: [antonio.binhan@outlook.com]
 
 ----
-
-I hope this introduction meets your needs! If you require further information or modifications, please let me know.
